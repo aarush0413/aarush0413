@@ -21,7 +21,7 @@ I build **full-stack web apps** and **AI-powered developer tools**, and I care a
 - 🌱 Going deep on **TypeScript, system design, and applied AI**
 - 💬 Ask me about **MERN, REST APIs, prompt engineering, and the Model Context Protocol**
 - 📫 Reach me at **aarushsaxena13@gmail.com**
-- 🎯 Open to **full-time SWE / Full-Stack / AI Engineer roles (2026)**
+- 🎯 Open to **full-time SWE / Full-Stack / AI Engineer roles **
 
 ---
 
